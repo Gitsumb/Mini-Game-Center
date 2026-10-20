@@ -5,7 +5,7 @@ public class menu {
         System.out.println("What game do you want to play? 1. Adlib Game 2. Hangman ");
         int game = input.nextInt();
         if (game == 1){
-            System.out.println("Great! You are going to play the Adlib Game!");
+            adlib.game1();
         }
         else if (game == 2){
             System.out.println("Great! You are going to play Hangman!");
