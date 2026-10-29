@@ -5,6 +5,7 @@ public class adlib {
         Scanner input = new Scanner(System.in);
         while (again.equals("yes")){
             int points = 0;
+            System.out.println("Welcome to the adlib game! Guess the name of the artist that says each adlib.");
             System.out.println("Question 1: ");
             String name1 = input.nextLine();
             if (name1.equals("21 Savage")){
