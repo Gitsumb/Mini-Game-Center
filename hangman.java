@@ -3,6 +3,6 @@ public class hangman {
         String word = "two words";
         while (word = notFound) {
             
-        } 
+        }   
     }
 }

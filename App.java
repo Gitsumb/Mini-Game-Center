@@ -4,22 +4,3 @@ public class App {
     }
 }
 
-//test comment
-//GUYS
-//THERE
-//IS
-//NO
-//SOUND
-//YET
-//EITHER
-//GUESS
-//OR
-//CHECK
-//MY
-//ADLIB.JAVA
-//CLASS
-//TO
-//FIND
-//THE
-//RIGHT
-//ANSWERS
