@@ -101,7 +101,7 @@ public class adlib {
             else{
                 System.out.println("Incorrect!");
             }
-            System.out.println("You got " + points + " questions right. Do you want to play again? ");
+            System.out.println("You got " + points + " questions right. Do you want to play again? Type yes or no.");
             again = input.nextLine();
         }
         System.out.println("Sending you back to the menu...");

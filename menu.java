@@ -8,7 +8,7 @@ public class menu {
             adlib.game1();
         }
         else if (game == 2){
-            System.out.println("Great! You are going to play Hangman!");
+            hangman.game2();
         }
         else{
             System.out.println("I hope you enjoyed your time with these minigames!");
